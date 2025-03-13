@@ -21,3 +21,10 @@ CRIE UM COMMIT DESTA SEÇÃO E FAçA UM PUSH!!!
  
 Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
  
+CRIE UM COMMIT DESTA SEÇÃO E FAçA UM PUSH!!!
+ 
+## 💬 Contato
+ 
+Se quiser trocar uma ideia ou compartilhar dicas, me avise! 😊
+ 
+---
